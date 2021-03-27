@@ -18,4 +18,4 @@ https://www.reddit.com/r/woodworking/comments/fvwrmu/i_made_a_600_led_programmab
 This uses fastLED:
 http://fastled.io/
 
-The primary change we have made is adding a dial to the table to allow for different types of brightness rather than plug in a computer to change it each time.
+The primary change we have made is adding a dial to the table to allow for different types of brightness, rather than using a computer each time to change the brightness.
