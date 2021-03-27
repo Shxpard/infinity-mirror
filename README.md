@@ -6,11 +6,13 @@ https://pastebin.com/mMywyeQU
 
 This is the code used in the following links:
 
-https://www.reddit.com/r/interestingasfuck/comments/gzxtpp/an_infinity_mirror_coffee_table_i_built_during/
-https://www.reddit.com/r/DidntKnowIWantedThat/comments/gyzjkr/an_infinity_mirror_led_coffee_table_i_built/
+https://www.reddit.com/r/interestingasfuck/comments/gzxtpp/an_infinity_mirror_coffee_table_i_built_during/ 
+
+https://www.reddit.com/r/DidntKnowIWantedThat/comments/gyzjkr/an_infinity_mirror_led_coffee_table_i_built/ 
+
 https://imgur.com/a/dL2LOHf
 
-This is where the inspiration came from"
+This is where the inspiration came from:
 https://www.reddit.com/r/woodworking/comments/fvwrmu/i_made_a_600_led_programmable_infinity_mirror/?utm_medium=android_app&utm_source=share
 
 This uses fastLED:
