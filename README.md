@@ -6,7 +6,7 @@ https://pastebin.com/mMywyeQU
 
 This is the code used in the following links:
 
-https://www.reddit.com/r/interestingasfuck/comments/gzxtpp/an_infinity_mirror_coffee_table_i_built_during/ 
+https://tinyurl.com/4k8rmpm5
 
 https://www.reddit.com/r/DidntKnowIWantedThat/comments/gyzjkr/an_infinity_mirror_led_coffee_table_i_built/ 
 
